@@ -1,9 +1,9 @@
 const cacheName = "Gratio-GratsGame-1.0";
 const contentToCache = [
-    "Build/Build.loader.js",
-    "Build/Build.framework.js",
-    "Build/Build.data",
-    "Build/Build.wasm",
+    "Build/WebTest.loader.js",
+    "Build/WebTest.framework.js",
+    "Build/WebTest.data",
+    "Build/WebTest.wasm",
     "TemplateData/style.css"
 
 ];
